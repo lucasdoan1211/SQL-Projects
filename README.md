@@ -16,4 +16,4 @@ The database structure replicates LinkedIn with modifications, supporting user p
 Queries are designed to analyze user engagement, professional networking trends, and platform activity.
 
 📊 Entity Relationship Diagram (ERD):
-![Entity Relationship Diagram](https://raw.githubusercontent.com/lucasdoan1211/SQL-Projects/main/ERD/erd.png)
+![Entity Relationship Diagram](IN%20VITRO%20INC.%20Database%20(LinkedIn%20Clone)/ERD/ERD.png)
