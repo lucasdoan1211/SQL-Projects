@@ -17,3 +17,5 @@ Queries are designed to analyze user engagement, professional networking trends,
 
 📊 Entity Relationship Diagram (ERD):
 ![Entity Relationship Diagram](IN%20VITRO%20INC.%20Database%20(LinkedIn%20Clone)/ERD/ERD.png)
+
+Upcoming Projects – New SQL projects will be added as I continue learning and working on different datasets.
