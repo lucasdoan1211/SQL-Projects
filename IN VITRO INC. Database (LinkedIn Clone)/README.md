@@ -23,6 +23,6 @@ It does not include storage for bilingual data labels, as translations are handl
 
 Below is the **Entity Relationship Diagram** for the IN VITRO INC. Database:
 
-![Entity Relationship Diagram](ERD/erd.png)
+![Entity Relationship Diagram](ERD/ERD.png)
 
    
